@@ -3,7 +3,6 @@
 %bcond_without	javadoc		# don't build javadoc
 
 %define		srcname		librepository
-%include	/usr/lib/rpm/macros.java
 Summary:	Hierarchical repository abstraction layer
 Name:		java-%{srcname}
 Version:	1.1.3
